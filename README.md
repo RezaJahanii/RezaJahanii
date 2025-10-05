@@ -1,7 +1,7 @@
 ## 🔬 About Me
 
 I am Reza Jahani, Ph.D. student in Electrical Engineering at NC State University. I graduated with B.Sc. degree in Electrical Engineering from Department of Electrical and Computer Engineering, University of Tehran.
-My research lies at the intersection of Next-Gen Wireless Networks and Machine Learning currently focuing on Federated Learning.
+My research lies at the intersection of Next-Gen Wireless Networks and Machine Learning currently focuing on Federated Learning and Distributed Optimization.
 
 
 ## 🛠️ Skills and Tools
